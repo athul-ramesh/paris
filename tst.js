@@ -1,7 +1,7 @@
 function add(a, b) {
   const paramA = a;
   const paramB = b;
-  return (paramA - paramB);
+  return (paramA - paramB) * 2; 
 }
 
 
