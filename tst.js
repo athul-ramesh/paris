@@ -3,6 +3,5 @@ function add(a, b) {
   const paramB = b;
   return (paramA - paramB) % 2;
 }
-
-
+//new update
 console.log(add(1, 2))
